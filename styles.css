@@ -79,3 +79,27 @@ hr {
     border-top: 2px dashed #ff69b4;
     margin: 24px 0;
 }
+
+footer {
+    background: rgba(255, 182, 193, 0.85);
+    border: 8px solid transparent;
+    border-image: url('squares.png') 10 repeat;
+    border-radius: 12px;
+    box-shadow: 0 0 12px #ff69b4;
+    color: #fff0f6;
+    font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+    max-width: 800px;
+    margin: 32px auto 0 auto;
+    padding: 16px;
+    text-align: center;
+}
+
+.navbar {
+    background: rgba(255, 182, 193, 0.85);
+    border: 8px solid transparent;
+    border-image: url('squares.png') 10 repeat;
+    border-radius: 12px;
+    box-shadow: 0 0 10px #ff69b4;
+    padding: 6px;
+    text-align: center;
+}
